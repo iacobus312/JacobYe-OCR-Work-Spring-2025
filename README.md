@@ -13,14 +13,12 @@ Documentation on work done for the Boston College Language Learning Lab Spring 2
 
 **further work that can be done**: Pair this with an OCR model to send the labeled text to. Add a better recognition algorithm for glossed text. I've attempted to do this with pages that rapidly switch between languages, another continuation of this project would be to use existing OCR models fine tuned on glossed text to identify gloss sections of the input files. 
 
-## ocr_api-test.py 
+## ocr_api_test.py 
 
-**what this is**: 
+**what this is**: Python script utilizing Azure Document Intellignece for OCR.
 
-**what this is for**:
+**what this is for/what it does**: Converting raw glossed text into machine useable .txt documents.
 
-**what this does**:
+**how to use:**: Update script with Azure credentials (endpoint and key). Also specify the PDF path and output path for your file within the script. Run with "python ocr_api_test.py" 
 
-**how to use:**:
-
-**further work that can be done**:
+**further work that can be done**: Temporarily paused due to price constraints. Could be a useful reference against other open source model.s
