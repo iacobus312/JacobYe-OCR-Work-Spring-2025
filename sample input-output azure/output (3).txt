@@ -1,0 +1,519 @@
+----Analyzing layout from page #1----
+Page has width: 7.4861 and height: 10.2361, measured with unit: inch
+...Line # 0 has word count 6 and text '1. niomahas a longtsang si Kaojinzhong' within bounding polygon '[2.0926, 1.4928], [5.4069, 1.5017], [5.4069, 1.7105], [2.0881, 1.7016]'
+......Word '1.' has a confidence of 0.995
+......Word 'niomahas' has a confidence of 0.995
+......Word 'a' has a confidence of 0.995
+......Word 'longtsang' has a confidence of 0.993
+......Word 'si' has a confidence of 0.996
+......Word 'Kaojinzhong' has a confidence of 0.993
+...Line # 1 has word count 6 and text '越獄犯高進忠' within bounding polygon '[3.1011, 1.7105], [4.3539, 1.7105], [4.3539, 1.9059], [3.1011, 1.9104]'
+......Word '越' has a confidence of 0.996
+......Word '獄' has a confidence of 0.987
+......Word '犯' has a confidence of 0.995
+......Word '高' has a confidence of 0.992
+......Word '進' has a confidence of 0.99
+......Word '忠' has a confidence of 0.992
+...Line # 2 has word count 3 and text 'An escaped convict' within bounding polygon '[2.9189, 1.9459], [4.5539, 1.9415], [4.5539, 2.1503], [2.9189, 2.1503]'
+......Word 'An' has a confidence of 0.995
+......Word 'escaped' has a confidence of 0.993
+......Word 'convict' has a confidence of 0.993
+...Line # 3 has word count 5 and text 'si Tonosen (M, 53, Yayo)' within bounding polygon '[1.1418, 2.4169], [2.6435, 2.4169], [2.6435, 2.5812], [1.1418, 2.5768]'
+......Word 'si' has a confidence of 0.995
+......Word 'Tonosen' has a confidence of 0.993
+......Word '(M,' has a confidence of 0.994
+......Word '53,' has a confidence of 0.995
+......Word 'Yayo)' has a confidence of 0.993
+...Line # 4 has word count 9 and text '賴金龍,男,53,椰油村' within bounding polygon '[1.1507, 2.6301], [2.7545, 2.6346], [2.7545, 2.7989], [1.1507, 2.7945]'
+......Word '賴' has a confidence of 0.982
+......Word '金' has a confidence of 0.993
+......Word '龍' has a confidence of 0.993
+......Word ',' has a confidence of 0.994
+......Word '男' has a confidence of 0.995
+......Word ',53,' has a confidence of 0.964
+......Word '椰' has a confidence of 0.995
+......Word '油' has a confidence of 0.995
+......Word '村' has a confidence of 0.995
+...Line # 5 has word count 2 and text '1. apnezak' within bounding polygon '[1.1551, 3.0877], [1.9237, 3.0922], [1.9237, 3.2477], [1.1551, 3.2432]'
+......Word '1.' has a confidence of 0.995
+......Word 'apnezak' has a confidence of 0.995
+...Line # 6 has word count 1 and text 'rana' within bounding polygon '[2.0481, 3.1099], [2.3458, 3.1055], [2.3458, 3.2254], [2.0526, 3.2254]'
+......Word 'rana' has a confidence of 0.992
+...Line # 7 has word count 1 and text 'am,' within bounding polygon '[2.6346, 3.101], [2.87, 3.101], [2.8745, 3.2432], [2.6346, 3.2432]'
+......Word 'am,' has a confidence of 0.995
+...Line # 8 has word count 1 and text 'ma-níring' within bounding polygon '[3.1055, 3.0922], [3.7053, 3.0922], [3.7008, 3.2432], [3.1055, 3.2388]'
+......Word 'ma-níring' has a confidence of 0.976
+...Line # 9 has word count 1 and text 'si' within bounding polygon '[3.8208, 3.0922], [3.9896, 3.0966], [3.9896, 3.2343], [3.8164, 3.2343]'
+......Word 'si' has a confidence of 0.972
+...Line # 10 has word count 1 and text 'Apiasongaran' within bounding polygon '[4.3939, 3.0877], [5.2381, 3.0922], [5.2381, 3.2477], [4.3939, 3.2477]'
+......Word 'Apiasongaran' has a confidence of 0.993
+...Line # 11 has word count 1 and text 'am,' within bounding polygon '[5.3891, 3.1055], [5.6246, 3.1055], [5.6246, 3.2432], [5.3891, 3.2388]'
+......Word 'am,' has a confidence of 0.995
+...Line # 12 has word count 2 and text '早上' within bounding polygon '[1.4084, 3.301], [1.7149, 3.301], [1.7149, 3.4565], [1.4084, 3.4609]'
+......Word '早' has a confidence of 0.995
+......Word '上' has a confidence of 0.996
+...Line # 13 has word count 2 and text '已經' within bounding polygon '[2.057, 3.2965], [2.3725, 3.301], [2.3725, 3.4565], [2.057, 3.452]'
+......Word '已' has a confidence of 0.996
+......Word '經' has a confidence of 0.994
+...Line # 14 has word count 1 and text '呢' within bounding polygon '[2.6657, 3.2965], [2.8078, 3.2965], [2.8078, 3.452], [2.6701, 3.4609]'
+......Word '呢' has a confidence of 0.995
+...Line # 15 has word count 4 and text '主焦-說' within bounding polygon '[3.1144, 3.3054], [3.6164, 3.3054], [3.6164, 3.4565], [3.1144, 3.452]'
+......Word '主' has a confidence of 0.995
+......Word '焦' has a confidence of 0.995
+......Word '-' has a confidence of 0.987
+......Word '說' has a confidence of 0.99
+...Line # 16 has word count 2 and text '主格' within bounding polygon '[3.8563, 3.301], [4.1585, 3.3054], [4.1629, 3.4609], [3.8563, 3.4565]'
+......Word '主' has a confidence of 0.995
+......Word '格' has a confidence of 0.996
+...Line # 17 has word count 2 and text '人名' within bounding polygon '[4.3984, 3.3054], [4.7049, 3.3054], [4.7049, 3.4609], [4.3939, 3.4565]'
+......Word '人' has a confidence of 0.998
+......Word '名' has a confidence of 0.997
+...Line # 18 has word count 1 and text '呢' within bounding polygon '[5.4158, 3.301], [5.5491, 3.301], [5.5491, 3.4431], [5.4113, 3.4476]'
+......Word '呢' has a confidence of 0.995
+...Line # 19 has word count 1 and text 'morning' within bounding polygon '[1.395, 3.5409], [1.9104, 3.5409], [1.9104, 3.6875], [1.395, 3.6875]'
+......Word 'morning' has a confidence of 0.995
+...Line # 20 has word count 1 and text 'already' within bounding polygon '[2.0348, 3.532], [2.5057, 3.5364], [2.5057, 3.6875], [2.0304, 3.6919]'
+......Word 'already' has a confidence of 0.994
+...Line # 21 has word count 1 and text 'PAR' within bounding polygon '[2.639, 3.5231], [2.9411, 3.5231], [2.9411, 3.6697], [2.6346, 3.6697]'
+......Word 'PAR' has a confidence of 0.995
+...Line # 22 has word count 1 and text 'AF-say' within bounding polygon '[3.11, 3.5364], [3.5542, 3.5453], [3.5498, 3.6919], [3.11, 3.6786]'
+......Word 'AF-say' has a confidence of 0.995
+...Line # 23 has word count 1 and text 'NOM' within bounding polygon '[3.8519, 3.532], [4.2073, 3.532], [4.2073, 3.6697], [3.8563, 3.6608]'
+......Word 'NOM' has a confidence of 0.995
+...Line # 24 has word count 1 and text 'PN' within bounding polygon '[4.3939, 3.532], [4.6027, 3.5275], [4.6027, 3.6653], [4.3939, 3.6608]'
+......Word 'PN' has a confidence of 0.995
+...Line # 25 has word count 1 and text 'PAR' within bounding polygon '[5.3891, 3.532], [5.6868, 3.532], [5.6868, 3.6564], [5.398, 3.6608]'
+......Word 'PAR' has a confidence of 0.995
+...Line # 26 has word count 1 and text 'ji' within bounding polygon '[1.4039, 3.7675], [1.4839, 3.7675], [1.4839, 3.9052], [1.4039, 3.9007]'
+......Word 'ji' has a confidence of 0.992
+...Line # 27 has word count 1 and text 'apen' within bounding polygon '[1.8971, 3.7852], [2.1859, 3.7763], [2.1859, 3.9096], [1.9015, 3.9052]'
+......Word 'apen' has a confidence of 0.993
+...Line # 28 has word count 2 and text '處格' within bounding polygon '[1.4217, 3.9718], [1.7105, 3.9718], [1.706, 4.1229], [1.4217, 4.1229]'
+......Word '處' has a confidence of 0.995
+......Word '格' has a confidence of 0.995
+...Line # 29 has word count 3 and text '祖輩級' within bounding polygon '[1.8971, 3.9674], [2.3458, 3.9674], [2.3458, 4.1229], [1.8971, 4.1229]'
+......Word '祖' has a confidence of 0.988
+......Word '輩' has a confidence of 0.993
+......Word '級' has a confidence of 0.992
+...Line # 30 has word count 1 and text 'Jinovoya' within bounding polygon '[3.5631, 3.7586], [4.1407, 3.7719], [4.1362, 3.9096], [3.5631, 3.8919]'
+......Word 'Jinovoya' has a confidence of 0.994
+...Line # 31 has word count 2 and text '人名' within bounding polygon '[3.5809, 3.9718], [3.8652, 3.9718], [3.8652, 4.1273], [3.5809, 4.1273]'
+......Word '人' has a confidence of 0.997
+......Word '名' has a confidence of 0.997
+...Line # 32 has word count 1 and text 'am,' within bounding polygon '[4.2695, 3.7808], [4.4917, 3.7808], [4.4917, 3.9007], [4.2695, 3.8963]'
+......Word 'am,' has a confidence of 0.995
+...Line # 33 has word count 1 and text '呢' within bounding polygon '[4.2873, 3.9763], [4.4339, 3.9718], [4.4339, 4.1184], [4.2873, 4.114]'
+......Word '呢' has a confidence of 0.994
+...Line # 34 has word count 1 and text 'LOC' within bounding polygon '[1.3995, 4.2073], [1.7105, 4.2028], [1.7105, 4.3406], [1.4039, 4.3317]'
+......Word 'LOC' has a confidence of 0.995
+...Line # 35 has word count 1 and text 'grandfather's_generation' within bounding polygon '[1.906, 4.2073], [3.3899, 4.2028], [3.3899, 4.3539], [1.906, 4.3583]'
+......Word 'grandfather's_generation' has a confidence of 0.951
+...Line # 36 has word count 1 and text 'PN' within bounding polygon '[3.5631, 4.2028], [3.7675, 4.2028], [3.7675, 4.3361], [3.5676, 4.3317]'
+......Word 'PN' has a confidence of 0.967
+...Line # 37 has word count 1 and text 'PAR' within bounding polygon '[4.2695, 4.1895], [4.5628, 4.1895], [4.5628, 4.3361], [4.2695, 4.3406]'
+......Word 'PAR' has a confidence of 0.996
+...Line # 38 has word count 14 and text '【有一天早上,si Apiasongaran 對 si apen Jinovoya 說】' within bounding polygon '[1.4572, 4.4117], [4.8382, 4.4117], [4.8382, 4.5805], [1.4572, 4.576]'
+......Word '【' has a confidence of 0.994
+......Word '有' has a confidence of 0.993
+......Word '一' has a confidence of 0.992
+......Word '天' has a confidence of 0.996
+......Word '早' has a confidence of 0.995
+......Word '上' has a confidence of 0.993
+......Word ',si' has a confidence of 0.957
+......Word 'Apiasongaran' has a confidence of 0.96
+......Word '對' has a confidence of 0.992
+......Word 'si' has a confidence of 0.987
+......Word 'apen' has a confidence of 0.981
+......Word 'Jinovoya' has a confidence of 0.945
+......Word '說' has a confidence of 0.99
+......Word '】' has a confidence of 0.995
+...Line # 39 has word count 10 and text 'In the morning, si Apiasongaran said to si apen Jinovoya,' within bounding polygon '[1.395, 4.6427], [4.7493, 4.6471], [4.7493, 4.8071], [1.395, 4.8026]'
+......Word 'In' has a confidence of 0.995
+......Word 'the' has a confidence of 0.996
+......Word 'morning,' has a confidence of 0.994
+......Word 'si' has a confidence of 0.996
+......Word 'Apiasongaran' has a confidence of 0.968
+......Word 'said' has a confidence of 0.992
+......Word 'to' has a confidence of 0.996
+......Word 'si' has a confidence of 0.995
+......Word 'apen' has a confidence of 0.993
+......Word 'Jinovoya,' has a confidence of 0.993
+...Line # 40 has word count 3 and text '2. "ma-ngay ta' within bounding polygon '[1.1374, 5.087], [2.2392, 5.0958], [2.2392, 5.2513], [1.1374, 5.238]'
+......Word '2.' has a confidence of 0.972
+......Word '"ma-ngay' has a confidence of 0.86
+......Word 'ta' has a confidence of 0.995
+...Line # 41 has word count 1 and text 'ma-ngayo,' within bounding polygon '[3.1055, 5.1003], [3.7542, 5.1047], [3.7542, 5.2558], [3.1055, 5.2513]'
+......Word 'ma-ngayo,' has a confidence of 0.991
+...Line # 42 has word count 1 and text 'mo' within bounding polygon '[4.1096, 5.1225], [4.3095, 5.1181], [4.3095, 5.2158], [4.1096, 5.2158]'
+......Word 'mo' has a confidence of 0.996
+...Line # 43 has word count 1 and text 'ka-teysa",' within bounding polygon '[4.816, 5.0825], [5.4291, 5.087], [5.4291, 5.2469], [4.8115, 5.2425]'
+......Word 'ka-teysa",' has a confidence of 0.946
+...Line # 44 has word count 1 and text '"nohon",' within bounding polygon '[5.6068, 5.0825], [6.1622, 5.0825], [6.1577, 5.2425], [5.6068, 5.238]'
+......Word '"nohon",' has a confidence of 0.878
+...Line # 45 has word count 4 and text '主焦-去' within bounding polygon '[1.4084, 5.3047], [1.9015, 5.3047], [1.9015, 5.4646], [1.4084, 5.4646]'
+......Word '主' has a confidence of 0.996
+......Word '焦' has a confidence of 0.995
+......Word '-' has a confidence of 0.993
+......Word '去' has a confidence of 0.995
+...Line # 46 has word count 7 and text '我們.主格.含' within bounding polygon '[2.1059, 5.3091], [2.9322, 5.3091], [2.9322, 5.4646], [2.1059, 5.469]'
+......Word '我' has a confidence of 0.992
+......Word '們' has a confidence of 0.994
+......Word '.' has a confidence of 0.988
+......Word '主' has a confidence of 0.995
+......Word '格' has a confidence of 0.995
+......Word '.' has a confidence of 0.979
+......Word '含' has a confidence of 0.995
+...Line # 47 has word count 6 and text '主焦.砍木柴' within bounding polygon '[3.0966, 5.3091], [3.8874, 5.3091], [3.8874, 5.469], [3.0966, 5.469]'
+......Word '主' has a confidence of 0.997
+......Word '焦' has a confidence of 0.995
+......Word '.' has a confidence of 0.987
+......Word '砍' has a confidence of 0.995
+......Word '木' has a confidence of 0.995
+......Word '柴' has a confidence of 0.995
+...Line # 48 has word count 4 and text '你.屬格' within bounding polygon '[4.1185, 5.3135], [4.5983, 5.3091], [4.5983, 5.469], [4.1185, 5.4735]'
+......Word '你' has a confidence of 0.995
+......Word '.' has a confidence of 0.992
+......Word '屬' has a confidence of 0.995
+......Word '格' has a confidence of 0.996
+...Line # 49 has word count 4 and text '同-堂兄' within bounding polygon '[4.8293, 5.3047], [5.3091, 5.3047], [5.3091, 5.4646], [4.8293, 5.4646]'
+......Word '同' has a confidence of 0.995
+......Word '-' has a confidence of 0.995
+......Word '堂' has a confidence of 0.995
+......Word '兄' has a confidence of 0.992
+...Line # 50 has word count 1 and text '好' within bounding polygon '[5.6424, 5.3135], [5.8023, 5.318], [5.8067, 5.4557], [5.6468, 5.4601]'
+......Word '好' has a confidence of 0.994
+...Line # 51 has word count 1 and text 'AF-go' within bounding polygon '[1.3995, 5.5401], [1.7949, 5.5401], [1.7949, 5.6912], [1.4039, 5.6823]'
+......Word 'AF-go' has a confidence of 0.993
+...Line # 52 has word count 2 and text '1.P.NOM.INCL AF-cut_wood' within bounding polygon '[2.1192, 5.5357], [3.9363, 5.5357], [3.9363, 5.6734], [2.1192, 5.669]'
+......Word '1.P.NOM.INCL' has a confidence of 0.887
+......Word 'AF-cut_wood' has a confidence of 0.931
+...Line # 53 has word count 1 and text '2.S.GEN' within bounding polygon '[4.1007, 5.5312], [4.6694, 5.5312], [4.6694, 5.6734], [4.1007, 5.6734]'
+......Word '2.S.GEN' has a confidence of 0.992
+...Line # 54 has word count 1 and text 'Co-cousin' within bounding polygon '[4.816, 5.5357], [5.4335, 5.5401], [5.4335, 5.6778], [4.816, 5.6734]'
+......Word 'Co-cousin' has a confidence of 0.985
+...Line # 55 has word count 1 and text 'okay' within bounding polygon '[5.6424, 5.5446], [5.9445, 5.5446], [5.94, 5.6823], [5.6468, 5.6823]'
+......Word 'okay' has a confidence of 0.991
+...Line # 56 has word count 16 and text '【“堂哥,我們去砍木柴”,“好啊”】' within bounding polygon '[1.4572, 5.7445], [3.9763, 5.7445], [3.9763, 5.9133], [1.4572, 5.9133]'
+......Word '【' has a confidence of 0.994
+......Word '“' has a confidence of 0.969
+......Word '堂' has a confidence of 0.995
+......Word '哥' has a confidence of 0.995
+......Word ',' has a confidence of 0.994
+......Word '我' has a confidence of 0.996
+......Word '們' has a confidence of 0.993
+......Word '去' has a confidence of 0.993
+......Word '砍' has a confidence of 0.991
+......Word '木' has a confidence of 0.988
+......Word '柴' has a confidence of 0.992
+......Word '”,“' has a confidence of 0.928
+......Word '好' has a confidence of 0.994
+......Word '啊' has a confidence of 0.995
+......Word '”' has a confidence of 0.959
+......Word '】' has a confidence of 0.994
+...Line # 57 has word count 10 and text '"Cousin, let's go cut some wood." "Okay," was the reply.' within bounding polygon '[1.3995, 5.9755], [4.7493, 5.98], [4.7493, 6.1399], [1.3995, 6.1354]'
+......Word '"Cousin,' has a confidence of 0.934
+......Word 'let's' has a confidence of 0.992
+......Word 'go' has a confidence of 0.995
+......Word 'cut' has a confidence of 0.995
+......Word 'some' has a confidence of 0.992
+......Word 'wood."' has a confidence of 0.93
+......Word '"Okay,"' has a confidence of 0.945
+......Word 'was' has a confidence of 0.995
+......Word 'the' has a confidence of 0.996
+......Word 'reply.' has a confidence of 0.993
+...Line # 58 has word count 1 and text '3.' within bounding polygon '[1.1507, 6.4242], [1.3106, 6.4242], [1.3106, 6.5708], [1.1462, 6.5664]'
+......Word '3.' has a confidence of 0.995
+...Line # 59 has word count 1 and text '“a' within bounding polygon '[1.3417, 6.4198], [1.5417, 6.4287], [1.5417, 6.5531], [1.3417, 6.5575]'
+......Word '“a' has a confidence of 0.726
+...Line # 60 has word count 2 and text 'mi ko' within bounding polygon '[1.8082, 6.4287], [2.3014, 6.4287], [2.3014, 6.562], [1.8082, 6.562]'
+......Word 'mi' has a confidence of 0.995
+......Word 'ko' has a confidence of 0.996
+...Line # 61 has word count 1 and text 'pa' within bounding polygon '[2.8523, 6.4598], [3.0033, 6.4509], [3.0078, 6.5753], [2.8612, 6.5753]'
+......Word 'pa' has a confidence of 0.995
+...Line # 62 has word count 1 and text '先' within bounding polygon '[2.8656, 6.6419], [3.0033, 6.6375], [3.0078, 6.7885], [2.87, 6.7841]'
+......Word '先' has a confidence of 0.996
+...Line # 63 has word count 1 and text 'mang-ap' within bounding polygon '[3.2743, 6.4464], [3.803, 6.4464], [3.803, 6.5886], [3.2743, 6.5797]'
+......Word 'mang-ap' has a confidence of 0.993
+...Line # 64 has word count 4 and text '主焦-拿' within bounding polygon '[3.2832, 6.6375], [3.7764, 6.6375], [3.7764, 6.793], [3.2832, 6.793]'
+......Word '主' has a confidence of 0.995
+......Word '焦' has a confidence of 0.995
+......Word '-' has a confidence of 0.988
+......Word '拿' has a confidence of 0.996
+...Line # 65 has word count 1 and text 'SO' within bounding polygon '[3.9363, 6.4509], [4.0874, 6.4509], [4.0918, 6.562], [3.9363, 6.562]'
+......Word 'SO' has a confidence of 0.918
+...Line # 66 has word count 1 and text 'zaig' within bounding polygon '[4.4117, 6.4287], [4.6872, 6.4331], [4.6872, 6.5753], [4.4073, 6.5797]'
+......Word 'zaig' has a confidence of 0.992
+...Line # 67 has word count 2 and text '斧頭' within bounding polygon '[4.3939, 6.6419], [4.7138, 6.6419], [4.7138, 6.7974], [4.3984, 6.7885]'
+......Word '斧' has a confidence of 0.995
+......Word '頭' has a confidence of 0.995
+...Line # 68 has word count 1 and text 'ko' within bounding polygon '[4.856, 6.4287], [5.0204, 6.4287], [5.0159, 6.5575], [4.856, 6.5531]'
+......Word 'ko' has a confidence of 0.995
+...Line # 69 has word count 1 and text 'an"' within bounding polygon '[5.5268, 6.442], [5.7401, 6.4242], [5.7401, 6.5353], [5.5268, 6.5531]'
+......Word 'an"' has a confidence of 0.882
+...Line # 70 has word count 1 and text '助' within bounding polygon '[1.4039, 6.6508], [1.5505, 6.6508], [1.555, 6.793], [1.3995, 6.7974]'
+......Word '助' has a confidence of 0.995
+...Line # 71 has word count 5 and text '去 我.主格' within bounding polygon '[1.8304, 6.6464], [2.6346, 6.6375], [2.639, 6.7885], [1.8304, 6.7974]'
+......Word '去' has a confidence of 0.994
+......Word '我' has a confidence of 0.991
+......Word '.' has a confidence of 0.928
+......Word '主' has a confidence of 0.995
+......Word '格' has a confidence of 0.996
+...Line # 72 has word count 2 and text '斜格' within bounding polygon '[3.9408, 6.6375], [4.2651, 6.6375], [4.2606, 6.7885], [3.9408, 6.7974]'
+......Word '斜' has a confidence of 0.993
+......Word '格' has a confidence of 0.997
+...Line # 73 has word count 4 and text '我.屬格' within bounding polygon '[4.8515, 6.6419], [5.3536, 6.6419], [5.3536, 6.793], [4.8515, 6.793]'
+......Word '我' has a confidence of 0.997
+......Word '.' has a confidence of 0.994
+......Word '屬' has a confidence of 0.996
+......Word '格' has a confidence of 0.996
+...Line # 74 has word count 1 and text '嗎' within bounding polygon '[5.5357, 6.6419], [5.6735, 6.6419], [5.6779, 6.7841], [5.5402, 6.793]'
+......Word '嗎' has a confidence of 0.995
+...Line # 75 has word count 1 and text 'PAR' within bounding polygon '[1.3995, 6.8729], [1.7105, 6.8729], [1.7105, 7.0062], [1.3995, 6.9929]'
+......Word 'PAR' has a confidence of 0.997
+...Line # 76 has word count 1 and text 'go' within bounding polygon '[1.8127, 6.8907], [1.977, 6.8907], [1.977, 7.0151], [1.8127, 7.0151]'
+......Word 'go' has a confidence of 0.946
+...Line # 77 has word count 1 and text '1.S.NOM' within bounding polygon '[2.1592, 6.8685], [2.7323, 6.8729], [2.7323, 7.0018], [2.1592, 6.9973]'
+......Word '1.S.NOM' has a confidence of 0.983
+...Line # 78 has word count 1 and text 'first' within bounding polygon '[2.8389, 6.8774], [3.1277, 6.8729], [3.1277, 6.9973], [2.8434, 6.9929]'
+......Word 'first' has a confidence of 0.993
+...Line # 79 has word count 1 and text 'AF-take' within bounding polygon '[3.2743, 6.8685], [3.7719, 6.8685], [3.7764, 6.9973], [3.2743, 6.9973]'
+......Word 'AF-take' has a confidence of 0.993
+...Line # 80 has word count 1 and text 'OBL' within bounding polygon '[3.9541, 6.8596], [4.2651, 6.8641], [4.2606, 7.0062], [3.9541, 7.0107]'
+......Word 'OBL' has a confidence of 0.995
+...Line # 81 has word count 1 and text 'ax' within bounding polygon '[4.4028, 6.8996], [4.5539, 6.8996], [4.5539, 6.9973], [4.4073, 6.9973]'
+......Word 'ax' has a confidence of 0.993
+...Line # 82 has word count 1 and text '1.S.GEN' within bounding polygon '[4.8782, 6.8685], [5.4069, 6.8729], [5.4069, 6.9973], [4.8782, 6.9929]'
+......Word '1.S.GEN' has a confidence of 0.951
+...Line # 83 has word count 1 and text 'PAR' within bounding polygon '[5.5268, 6.8685], [5.8112, 6.8685], [5.8112, 6.9929], [5.5268, 6.9885]'
+......Word 'PAR' has a confidence of 0.997
+...Line # 84 has word count 1 and text 'koan' within bounding polygon '[1.395, 7.0951], [1.6971, 7.0995], [1.7016, 7.2239], [1.395, 7.2195]'
+......Word 'koan' has a confidence of 0.992
+...Line # 85 has word count 1 and text 'na' within bounding polygon '[1.8082, 7.1129], [1.9682, 7.1173], [1.9682, 7.2195], [1.8127, 7.2195]'
+......Word 'na' has a confidence of 0.995
+...Line # 86 has word count 1 and text 'ni' within bounding polygon '[2.488, 7.1084], [2.6124, 7.104], [2.6124, 7.2195], [2.4924, 7.2195]'
+......Word 'ni' has a confidence of 0.995
+...Line # 87 has word count 1 and text 'apen' within bounding polygon '[2.9411, 7.1173], [3.2344, 7.1173], [3.2344, 7.2417], [2.9456, 7.2328]'
+......Word 'apen' has a confidence of 0.993
+...Line # 88 has word count 3 and text '祖輩級' within bounding polygon '[2.9411, 7.3083], [3.3854, 7.3083], [3.381, 7.4594], [2.9411, 7.4549]'
+......Word '祖' has a confidence of 0.989
+......Word '輩' has a confidence of 0.99
+......Word '級' has a confidence of 0.992
+...Line # 89 has word count 2 and text 'Jinovoya ito' within bounding polygon '[4.5628, 7.0951], [5.358, 7.0951], [5.358, 7.2417], [4.5628, 7.2373]'
+......Word 'Jinovoya' has a confidence of 0.995
+......Word 'ito' has a confidence of 0.995
+...Line # 90 has word count 2 and text '人名' within bounding polygon '[4.5805, 7.3083], [4.8649, 7.3083], [4.8649, 7.4638], [4.5761, 7.4638]'
+......Word '人' has a confidence of 0.997
+......Word '名' has a confidence of 0.997
+...Line # 91 has word count 1 and text 'a,' within bounding polygon '[5.6468, 7.1262], [5.7623, 7.1262], [5.7667, 7.2328], [5.6512, 7.2284]'
+......Word 'a,' has a confidence of 0.987
+...Line # 92 has word count 1 and text '說' within bounding polygon '[1.4139, 7.3222], [1.5552, 7.3222], [1.5552, 7.4543], [1.4139, 7.4543]'
+......Word '說' has a confidence of 1.0
+...Line # 93 has word count 4 and text '他.屬格' within bounding polygon '[1.8304, 7.3172], [2.328, 7.3083], [2.3325, 7.4594], [1.8304, 7.4683]'
+......Word '他' has a confidence of 0.992
+......Word '.' has a confidence of 0.993
+......Word '屬' has a confidence of 0.996
+......Word '格' has a confidence of 0.997
+...Line # 94 has word count 2 and text '屬格' within bounding polygon '[2.5013, 7.3128], [2.7812, 7.3083], [2.7812, 7.4594], [2.5013, 7.4549]'
+......Word '屬' has a confidence of 0.995
+......Word '格' has a confidence of 0.996
+...Line # 95 has word count 1 and text 'GEN' within bounding polygon '[2.4791, 7.5171], [2.8034, 7.526], [2.8034, 7.6771], [2.4791, 7.6726]'
+......Word 'GEN' has a confidence of 0.995
+...Line # 96 has word count 2 and text '那個' within bounding polygon '[5.1936, 7.3128], [5.5535, 7.3128], [5.5491, 7.4638], [5.1892, 7.4638]'
+......Word '那' has a confidence of 0.978
+......Word '個' has a confidence of 0.99
+...Line # 97 has word count 1 and text '助' within bounding polygon '[5.6601, 7.3172], [5.7934, 7.3172], [5.7978, 7.4549], [5.6601, 7.4549]'
+......Word '助' has a confidence of 0.996
+...Line # 98 has word count 1 and text 'say' within bounding polygon '[1.3906, 7.5527], [1.595, 7.5482], [1.5994, 7.6993], [1.3906, 7.7037]'
+......Word 'say' has a confidence of 0.994
+...Line # 99 has word count 1 and text '3.S.GEN' within bounding polygon '[1.8215, 7.5394], [2.3858, 7.5394], [2.3858, 7.6682], [1.8215, 7.6682]'
+......Word '3.S.GEN' has a confidence of 0.984
+...Line # 100 has word count 1 and text 'grandfather's_generation' within bounding polygon '[2.9367, 7.5349], [4.425, 7.5349], [4.4295, 7.6904], [2.9367, 7.6904]'
+......Word 'grandfather's_generation' has a confidence of 0.882
+...Line # 101 has word count 1 and text 'PN' within bounding polygon '[4.5583, 7.5394], [4.7671, 7.5349], [4.7671, 7.6726], [4.5628, 7.6682]'
+......Word 'PN' has a confidence of 0.995
+...Line # 102 has word count 1 and text 'that' within bounding polygon '[5.207, 7.5349], [5.4291, 7.5305], [5.4291, 7.6771], [5.207, 7.6771]'
+......Word 'that' has a confidence of 0.993
+...Line # 103 has word count 1 and text 'PAR' within bounding polygon '[5.6557, 7.5394], [5.9311, 7.5394], [5.9311, 7.6638], [5.6557, 7.6593]'
+......Word 'PAR' has a confidence of 0.996
+...Line # 104 has word count 1 and text 'mi-ratateng' within bounding polygon '[1.3995, 7.7659], [2.0881, 7.7748], [2.0837, 7.9126], [1.3995, 7.8992]'
+......Word 'mi-ratateng' has a confidence of 0.993
+...Line # 105 has word count 5 and text '主焦-後來' within bounding polygon '[1.4084, 7.9747], [2.0526, 7.9747], [2.0526, 8.1258], [1.4084, 8.1347]'
+......Word '主' has a confidence of 0.995
+......Word '焦' has a confidence of 0.995
+......Word '-' has a confidence of 0.987
+......Word '後' has a confidence of 0.994
+......Word '來' has a confidence of 0.99
+...Line # 106 has word count 1 and text 'am,' within bounding polygon '[2.2747, 7.7882], [2.5013, 7.7882], [2.4969, 7.9126], [2.2792, 7.9037]'
+......Word 'am,' has a confidence of 0.995
+...Line # 107 has word count 1 and text '呢' within bounding polygon '[2.2925, 7.9747], [2.4302, 7.9747], [2.4258, 8.1125], [2.2969, 8.1169]'
+......Word '呢' has a confidence of 0.995
+...Line # 108 has word count 1 and text 'ma-ngay' within bounding polygon '[2.679, 7.7704], [3.2655, 7.7704], [3.2655, 7.9214], [2.679, 7.9214]'
+......Word 'ma-ngay' has a confidence of 0.995
+...Line # 109 has word count 1 and text 'rana' within bounding polygon '[3.3365, 7.7793], [3.6253, 7.7793], [3.6253, 7.8948], [3.3365, 7.8948]'
+......Word 'rana' has a confidence of 0.993
+...Line # 110 has word count 1 and text 'do' within bounding polygon '[3.9452, 7.7704], [4.1051, 7.7704], [4.1051, 7.8859], [3.9452, 7.8859]'
+......Word 'do' has a confidence of 0.996
+...Line # 111 has word count 1 and text 'vahay' within bounding polygon '[4.4517, 7.7659], [4.8204, 7.7659], [4.8204, 7.9126], [4.4472, 7.917]'
+......Word 'vahay' has a confidence of 0.994
+...Line # 112 has word count 1 and text '家' within bounding polygon '[4.4561, 7.9836], [4.5894, 7.9836], [4.5894, 8.1169], [4.4606, 8.1258]'
+......Word '家' has a confidence of 0.997
+...Line # 113 has word count 1 and text 'da.' within bounding polygon '[4.9893, 7.7659], [5.167, 7.7659], [5.167, 7.8903], [4.9893, 7.8815]'
+......Word 'da.' has a confidence of 0.995
+...Line # 114 has word count 4 and text '主焦-去' within bounding polygon '[2.6923, 7.9792], [3.2388, 7.9792], [3.2388, 8.1347], [2.6923, 8.1347]'
+......Word '主' has a confidence of 0.996
+......Word '焦' has a confidence of 0.995
+......Word '-' has a confidence of 0.992
+......Word '去' has a confidence of 0.995
+...Line # 115 has word count 2 and text '已經' within bounding polygon '[3.3365, 7.9747], [3.7053, 7.9836], [3.7008, 8.1258], [3.3365, 8.1258]'
+......Word '已' has a confidence of 0.996
+......Word '經' has a confidence of 0.994
+...Line # 116 has word count 2 and text '處格' within bounding polygon '[3.9541, 7.9836], [4.234, 7.9792], [4.234, 8.1302], [3.9496, 8.1302]'
+......Word '處' has a confidence of 0.995
+......Word '格' has a confidence of 0.995
+...Line # 117 has word count 5 and text '他們.屬格' within bounding polygon '[4.9893, 7.9792], [5.6113, 7.9792], [5.6113, 8.1214], [4.9893, 8.1258]'
+......Word '他' has a confidence of 0.995
+......Word '們' has a confidence of 0.994
+......Word '.' has a confidence of 0.964
+......Word '屬' has a confidence of 0.995
+......Word '格' has a confidence of 0.996
+...Line # 118 has word count 1 and text 'AF-later_on' within bounding polygon '[1.3995, 8.2013], [2.1459, 8.2058], [2.1459, 8.3479], [1.3995, 8.3435]'
+......Word 'AF-later_on' has a confidence of 0.952
+...Line # 119 has word count 2 and text 'PAR AF-go' within bounding polygon '[2.2747, 8.1969], [3.0877, 8.2102], [3.0833, 8.3568], [2.2747, 8.3391]'
+......Word 'PAR' has a confidence of 0.995
+......Word 'AF-go' has a confidence of 0.993
+...Line # 120 has word count 1 and text 'already' within bounding polygon '[3.3543, 8.2013], [3.8341, 8.2058], [3.8297, 8.3524], [3.3543, 8.3479]'
+......Word 'already' has a confidence of 0.995
+...Line # 121 has word count 1 and text 'LOC' within bounding polygon '[3.883, 8.1969], [4.2651, 8.1969], [4.2651, 8.3479], [3.883, 8.3524]'
+......Word 'LOC' has a confidence of 0.995
+...Line # 122 has word count 1 and text 'home' within bounding polygon '[4.4428, 8.2058], [4.7804, 8.2102], [4.7804, 8.3302], [4.4472, 8.3302]'
+......Word 'home' has a confidence of 0.993
+...Line # 123 has word count 1 and text '3.P.GEN' within bounding polygon '[4.9893, 8.2013], [5.5046, 8.2013], [5.5046, 8.3346], [4.9893, 8.3302]'
+......Word '3.P.GEN' has a confidence of 0.971
+...Line # 124 has word count 27 and text '【si apen Jinovoya 說“我先回家拿斧頭”。他就回家去拿(斧頭)了】' within bounding polygon '[1.4617, 8.4146], [5.8556, 8.4146], [5.8556, 8.579], [1.4617, 8.5834]'
+......Word '【' has a confidence of 0.989
+......Word 'si' has a confidence of 0.988
+......Word 'apen' has a confidence of 0.979
+......Word 'Jinovoya' has a confidence of 0.93
+......Word '說' has a confidence of 0.978
+......Word '“' has a confidence of 0.939
+......Word '我' has a confidence of 0.995
+......Word '先' has a confidence of 0.995
+......Word '回' has a confidence of 0.994
+......Word '家' has a confidence of 0.994
+......Word '拿' has a confidence of 0.994
+......Word '斧' has a confidence of 0.974
+......Word '頭' has a confidence of 0.993
+......Word '”' has a confidence of 0.949
+......Word '。' has a confidence of 0.987
+......Word '他' has a confidence of 0.994
+......Word '就' has a confidence of 0.994
+......Word '回' has a confidence of 0.993
+......Word '家' has a confidence of 0.995
+......Word '去' has a confidence of 0.99
+......Word '拿' has a confidence of 0.992
+......Word '(' has a confidence of 0.995
+......Word '斧' has a confidence of 0.985
+......Word '頭' has a confidence of 0.993
+......Word ')' has a confidence of 0.992
+......Word '了' has a confidence of 0.992
+......Word '】' has a confidence of 0.995
+...Line # 125 has word count 15 and text '"I'll go get the ax," said si apen Jinovoya. Then he left to get it.' within bounding polygon '[1.4039, 8.6412], [5.1137, 8.6412], [5.1137, 8.8011], [1.4039, 8.8011]'
+......Word '"I'll' has a confidence of 0.903
+......Word 'go' has a confidence of 0.995
+......Word 'get' has a confidence of 0.996
+......Word 'the' has a confidence of 0.995
+......Word 'ax,"' has a confidence of 0.984
+......Word 'said' has a confidence of 0.993
+......Word 'si' has a confidence of 0.995
+......Word 'apen' has a confidence of 0.987
+......Word 'Jinovoya.' has a confidence of 0.991
+......Word 'Then' has a confidence of 0.993
+......Word 'he' has a confidence of 0.996
+......Word 'left' has a confidence of 0.993
+......Word 'to' has a confidence of 0.996
+......Word 'get' has a confidence of 0.995
+......Word 'it.' has a confidence of 0.993
+...Selection mark is 'unselected' within bounding polygon '[3.3871, 8.0131], [3.494, 8.0131], [3.494, 8.1159], [3.3871, 8.1159]' and has a confidence of 0.514
+Table # 0 has 3 rows and 7 columns
+Table # 0 location on page: 1 is [1.3522, 3.0693], [5.7086, 3.0698], [5.7099, 3.699], [1.3521, 3.6987]
+...Cell[0][0] has content 'apnezak'
+...content on page 1 is within bounding polygon '[1.3543, 3.0554], [1.989, 3.0554], [1.989, 3.2729], [1.3543, 3.2774]'
+...Cell[0][1] has content 'rana'
+...content on page 1 is within bounding polygon '[1.989, 3.0554], [2.5829, 3.0554], [2.5784, 3.2729], [1.989, 3.2729]'
+...Cell[0][2] has content 'am,'
+...content on page 1 is within bounding polygon '[2.5829, 3.0554], [3.0182, 3.0554], [3.0182, 3.2729], [2.5784, 3.2729]'
+...Cell[0][3] has content 'ma-níring'
+...content on page 1 is within bounding polygon '[3.0182, 3.0554], [3.7799, 3.0554], [3.7799, 3.2729], [3.0182, 3.2729]'
+...Cell[0][4] has content 'si'
+...content on page 1 is within bounding polygon '[3.7799, 3.0554], [4.3058, 3.0554], [4.3058, 3.2729], [3.7799, 3.2729]'
+...Cell[0][5] has content 'Apiasongaran'
+...content on page 1 is within bounding polygon '[4.3058, 3.0554], [5.3078, 3.0509], [5.3124, 3.2729], [4.3058, 3.2729]'
+...Cell[0][6] has content 'am,'
+...content on page 1 is within bounding polygon '[5.3078, 3.0509], [5.7068, 3.0509], [5.7113, 3.2729], [5.3124, 3.2729]'
+...Cell[1][0] has content '早上'
+...content on page 1 is within bounding polygon '[1.3543, 3.2774], [1.989, 3.2729], [1.989, 3.4994], [1.3497, 3.504]'
+...Cell[1][1] has content '已經'
+...content on page 1 is within bounding polygon '[1.989, 3.2729], [2.5784, 3.2729], [2.5784, 3.4994], [1.989, 3.4994]'
+...Cell[1][2] has content '呢'
+...content on page 1 is within bounding polygon '[2.5784, 3.2729], [3.0182, 3.2729], [3.0182, 3.4994], [2.5784, 3.4994]'
+...Cell[1][3] has content '主焦-說'
+...content on page 1 is within bounding polygon '[3.0182, 3.2729], [3.7799, 3.2729], [3.7799, 3.4994], [3.0182, 3.4994]'
+...Cell[1][4] has content '主格'
+...content on page 1 is within bounding polygon '[3.7799, 3.2729], [4.3058, 3.2729], [4.3058, 3.4994], [3.7799, 3.4994]'
+...Cell[1][5] has content '人名'
+...content on page 1 is within bounding polygon '[4.3058, 3.2729], [5.3124, 3.2729], [5.3124, 3.4949], [4.3058, 3.4994]'
+...Cell[1][6] has content '呢'
+...content on page 1 is within bounding polygon '[5.3124, 3.2729], [5.7113, 3.2729], [5.7204, 3.4949], [5.3124, 3.4949]'
+...Cell[2][0] has content 'morning'
+...content on page 1 is within bounding polygon '[1.3497, 3.504], [1.989, 3.4994], [1.9845, 3.7124], [1.3497, 3.7169]'
+...Cell[2][1] has content 'already'
+...content on page 1 is within bounding polygon '[1.989, 3.4994], [2.5784, 3.4994], [2.5784, 3.7124], [1.9845, 3.7124]'
+...Cell[2][2] has content 'PAR'
+...content on page 1 is within bounding polygon '[2.5784, 3.4994], [3.0182, 3.4994], [3.0137, 3.7124], [2.5784, 3.7124]'
+...Cell[2][3] has content 'AF-say'
+...content on page 1 is within bounding polygon '[3.0182, 3.4994], [3.7799, 3.4994], [3.7799, 3.7124], [3.0137, 3.7124]'
+...Cell[2][4] has content 'NOM'
+...content on page 1 is within bounding polygon '[3.7799, 3.4994], [4.3058, 3.4994], [4.3058, 3.7124], [3.7799, 3.7124]'
+...Cell[2][5] has content 'PN'
+...content on page 1 is within bounding polygon '[4.3058, 3.4994], [5.3124, 3.4949], [5.3124, 3.7124], [4.3058, 3.7124]'
+...Cell[2][6] has content 'PAR'
+...content on page 1 is within bounding polygon '[5.3124, 3.4949], [5.7204, 3.4949], [5.7295, 3.7124], [5.3124, 3.7124]'
+Table # 1 has 3 rows and 6 columns
+Table # 1 location on page: 1 is [1.3548, 5.0615], [6.1635, 5.0659], [6.1648, 5.7061], [1.3554, 5.702]
+...Cell[0][0] has content '"ma-ngay'
+...content on page 1 is within bounding polygon '[1.357, 5.0564], [2.0388, 5.0564], [2.0388, 5.2749], [1.357, 5.2749]'
+...Cell[0][1] has content 'ta'
+...content on page 1 is within bounding polygon '[2.0388, 5.0564], [3.0689, 5.0564], [3.0689, 5.2749], [2.0388, 5.2749]'
+...Cell[0][2] has content 'ma-ngayo,'
+...content on page 1 is within bounding polygon '[3.0689, 5.0564], [4.0244, 5.0564], [4.0244, 5.2749], [3.0689, 5.2749]'
+...Cell[0][3] has content 'mo'
+...content on page 1 is within bounding polygon '[4.0244, 5.0564], [4.7311, 5.0514], [4.7311, 5.2749], [4.0244, 5.2749]'
+...Cell[0][4] has content 'ka-teysa",'
+...content on page 1 is within bounding polygon '[4.7311, 5.0514], [5.5173, 5.0514], [5.5223, 5.2699], [4.7311, 5.2749]'
+...Cell[0][5] has content '"nohon",'
+...content on page 1 is within bounding polygon '[5.5173, 5.0514], [6.1742, 5.0514], [6.1742, 5.2649], [5.5223, 5.2699]'
+...Cell[1][0] has content '主焦-去'
+...content on page 1 is within bounding polygon '[1.357, 5.2749], [2.0388, 5.2749], [2.0438, 5.4983], [1.357, 5.4983]'
+...Cell[1][1] has content '我們.主格.含'
+...content on page 1 is within bounding polygon '[2.0388, 5.2749], [3.0689, 5.2749], [3.0689, 5.4983], [2.0438, 5.4983]'
+...Cell[1][2] has content '主焦.砍木柴'
+...content on page 1 is within bounding polygon '[3.0689, 5.2749], [4.0244, 5.2749], [4.0244, 5.4983], [3.0689, 5.4983]'
+...Cell[1][3] has content '你.屬格'
+...content on page 1 is within bounding polygon '[4.0244, 5.2749], [4.7311, 5.2749], [4.736, 5.4983], [4.0244, 5.4983]'
+...Cell[1][4] has content '同-堂兄'
+...content on page 1 is within bounding polygon '[4.7311, 5.2749], [5.5223, 5.2699], [5.5223, 5.4983], [4.736, 5.4983]'
+...Cell[1][5] has content '好'
+...content on page 1 is within bounding polygon '[5.5223, 5.2699], [6.1742, 5.2649], [6.1792, 5.4983], [5.5223, 5.4983]'
+...Cell[2][0] has content 'AF-go'
+...content on page 1 is within bounding polygon '[1.357, 5.4983], [2.0438, 5.4983], [2.0438, 5.7168], [1.357, 5.7168]'
+...Cell[2][1] has content '1.P.NOM.INCL'
+...content on page 1 is within bounding polygon '[2.0438, 5.4983], [3.0689, 5.4983], [3.0689, 5.7168], [2.0438, 5.7168]'
+...Cell[2][2] has content 'AF-cut_wood'
+...content on page 1 is within bounding polygon '[3.0689, 5.4983], [4.0244, 5.4983], [4.0244, 5.7168], [3.0689, 5.7168]'
+...Cell[2][3] has content '2.S.GEN'
+...content on page 1 is within bounding polygon '[4.0244, 5.4983], [4.736, 5.4983], [4.736, 5.7168], [4.0244, 5.7168]'
+...Cell[2][4] has content 'Co-cousin'
+...content on page 1 is within bounding polygon '[4.736, 5.4983], [5.5223, 5.4983], [5.5273, 5.7168], [4.736, 5.7168]'
+...Cell[2][5] has content 'okay'
+...content on page 1 is within bounding polygon '[5.5223, 5.4983], [6.1792, 5.4983], [6.1842, 5.7217], [5.5273, 5.7168]'
+----------------------------------------
